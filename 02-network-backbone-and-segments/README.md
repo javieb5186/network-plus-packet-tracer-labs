@@ -15,6 +15,10 @@ Build a small network in Cisco Packet Tracer to understand the purpose of networ
 - Gigabit Ethernet
 - Multimode fiber
 
+## Topology
+
+![Network topology](network-topology.png)
+
 ## Network Design
 
 I created two network segments connected to a central core switch.
