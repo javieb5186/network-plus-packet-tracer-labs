@@ -17,6 +17,10 @@ Build and test a basic peer-to-peer network in Cisco Packet Tracer to understand
 
 I tested peer-to-peer connectivity using three different network configurations.
 
+## Network Topology
+
+![Network topology](peer-to-peer-topology.png)
+
 ### 1. Direct Connection
 
 Connected two PCs directly using an Ethernet crossover cable and assigned both devices IP addresses on the same subnet.
