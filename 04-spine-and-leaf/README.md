@@ -270,6 +270,8 @@ Connectivity continued through the remaining spine.
 
 When the failed link was restored, the routing table updated again and both paths became available.
 
+Observe the routing table output below. The first output of 192.168.10.0/24 has two routes, then after shutting down one link, the second output shows one route.
+
 ![Routing_table test](spine-and-leaf-routing-table.png)
 
 ---
