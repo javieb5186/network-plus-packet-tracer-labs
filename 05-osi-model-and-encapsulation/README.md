@@ -835,6 +835,8 @@ The entire webpage request demonstrated multiple protocols working together:
 18. TCP connection gracefully terminated
 ```
 
+![Event List](event-list.png)
+
 ---
 
 # What I Learned
