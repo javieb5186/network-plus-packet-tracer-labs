@@ -42,6 +42,8 @@ The lab focused on following a web request from beginning to end, including:
 
 The network was designed with the client and servers on different IP networks so traffic would have to pass through a router.
 
+![Network topology](network-topology.png)
+
 Example networks:
 
 ```text
@@ -169,6 +171,8 @@ UDP
 ```
 
 UDP provided a lightweight transport mechanism without establishing a connection before sending the DNS query.
+
+![OSI Model](osi-model.png)
 
 ---
 
@@ -396,6 +400,8 @@ Ethernet Frame
 The Frame Check Sequence provides Layer 2 error detection using CRC.
 
 The receiver can compare the calculated value against the received FCS to detect frame corruption.
+
+![PDU Details](pdu-details.png)
 
 ---
 
