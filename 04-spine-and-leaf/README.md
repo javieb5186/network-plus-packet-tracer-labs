@@ -85,7 +85,7 @@ Each leaf switch was connected to both spine switches.
 
 This created multiple possible paths through the network.
 
-![Spine-and-leaf topology](spine-leaf-topology.png)
+![Spine-and-leaf topology](spine-and-leaf-topology.png)
 
 ---
 
@@ -270,7 +270,7 @@ Connectivity continued through the remaining spine.
 
 When the failed link was restored, the routing table updated again and both paths became available.
 
-![Routing_table test](spine-leaf-routing-table.png)
+![Routing_table test](spine-and-leaf-routing-table.png)
 
 ---
 
