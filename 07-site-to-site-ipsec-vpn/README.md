@@ -52,7 +52,7 @@ The ISP router provided connectivity between the two sites but was not considere
 
 The goal was to allow the two private networks to communicate securely across this untrusted infrastructure.
 
-!(VPN Topology)[vpn-topology.png]
+![VPN Topology](vpn-topology.png)
 
 ---
 
