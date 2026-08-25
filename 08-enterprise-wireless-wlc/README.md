@@ -57,6 +57,8 @@ WLC
 
 The APs communicate with the WLC across the network.
 
+![WLC Topology](wlc-topology.png)
+
 ---
 
 # IP Addressing
@@ -199,6 +201,8 @@ Advanced AP Group configuration was not required for this lab.
 
 The primary goal was simply to verify that multiple APs could be managed through the same WLC.
 
+![AP Groups](ap-groups.png)
+
 ---
 
 # Creating the WLAN
@@ -219,6 +223,8 @@ VLAN:
 The lab remained on VLAN 1 because VLAN segmentation was outside the scope of this exercise.
 
 The important concept was that the WLAN was configured **once on the WLC** rather than individually on every AP.
+
+![WLC](wlc.png)
 
 ---
 
