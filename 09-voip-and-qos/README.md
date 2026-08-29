@@ -52,7 +52,7 @@ The PCs were connected through the Ethernet ports provided by the IP phones.
 
 This represents a common office configuration where a workstation and IP phone can share the same physical access location.
 
-!(VOIP Topology)[voip-topology.png]
+![VOIP Topology](voip-topology.png)
 
 ---
 
@@ -234,7 +234,7 @@ Call answering          ✓
 Voice session           ✓
 ```
 
-!(IP Phone)[ip-phone.png]
+![IP Phone](ip-phone.png)
 
 ---
 
@@ -254,7 +254,7 @@ Voice/media traffic
 
 This distinction was important because establishing a phone call and carrying the actual conversation are different networking functions.
 
-!(Protocols)[protocols.png]
+![Protocols](protocols.png)
 
 ---
 
@@ -480,7 +480,7 @@ An initial attempt used protocol-based RTP identification.
 
 Packet Tracer displayed the media packets as RTP in Simulation Mode, but the QoS class counters did not increase as expected.
 
-!(Before Counters)[before.png]
+![Before Counters](before.png)
 
 The RTP packet was then inspected directly.
 
@@ -632,7 +632,7 @@ This showed that:
 
 After inspecting the RTP PDU and matching the observed UDP port, the `VOICE` class counter increased.
 
-!(After Counters)[after.png]
+![After Counters](after.png)
 
 This demonstrated that traffic had successfully matched the voice classification.
 
